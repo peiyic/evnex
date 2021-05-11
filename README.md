@@ -1,8 +1,8 @@
 # How to run the code?
 
-## npm install
+npm install
 
-## node index.js
+node index.js
 
 # How to run the test?
-## npm run test
+npm run test
